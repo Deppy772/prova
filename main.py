@@ -1,3 +1,2 @@
-print("Paolo nabbo")
-class Deppy():
-	a.init__
+print("Paolo na")
+print("ciao")
