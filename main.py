@@ -1,2 +1,1 @@
-print("Paolo na")
-print("ciao")
+print("deppy")
